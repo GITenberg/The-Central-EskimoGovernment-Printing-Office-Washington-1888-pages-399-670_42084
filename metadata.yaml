@@ -1,0 +1,31 @@
+_repo: The-Central-EskimoGovernment-Printing-Office-Washington-1888-pages-399-670_42084
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boas, Franz
+    alias: Boaz, Franz
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '40195'
+    url: http://www.gutenberg.org/2009/agents/40195
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Boas
+description: ''
+gutenberg_issued: '2013-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Eskimos -- Canada'
+- !lcsh 'Eskimos -- Music'
+title: "The Central Eskimo\r\nSixth Annual Report of the Bureau of Ethnology to the\
+  \ Secretary of the Smithsonian Institution, 1884-1885, Government Printing Office,\
+  \ Washington, 1888, pages 399-670"
+url: http://www.gutenberg.org/ebooks/42084
